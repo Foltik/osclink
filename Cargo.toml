@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "osclink",
+    "osclink_derive",
+    "osclink_client",
+]
