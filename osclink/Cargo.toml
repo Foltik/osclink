@@ -6,6 +6,10 @@ edition = "2018"
 
 [dependencies]
 rosc = "0.4"
+libp2p = "0.33"
+
+log = "0.4"
+futures = "0.3"
 
 [dev-dependencies]
 tokio = { version = "1", features = ["macros", "rt-multi-thread"] }
