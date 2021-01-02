@@ -1,4 +1,4 @@
-mod net;
+pub mod net;
 
 pub use rosc::OscType as OscLinkType;
 
